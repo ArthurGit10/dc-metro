@@ -1,5 +1,7 @@
 .DS_Store
 .vscode
 
+
+src/secrets.py
 lib
 boot_out.txt
